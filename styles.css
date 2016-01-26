@@ -1,0 +1,17 @@
+@font-face
+{
+    font-family: 'capcom';
+    src: url(korrina.ttf);
+}
+
+body {
+    background-color: #0c4b9e;
+}
+
+.borderexample
+{
+    font-family: 'capcom';
+    font-size: 5em;
+    /*text-outline: 1px 1px #0c4b9e;*/
+    color: #ffcb08;
+}
